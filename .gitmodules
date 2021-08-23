@@ -4,3 +4,6 @@
 [submodule "ai03-pcb-guide/random-keyboard-parts.pretty"]
 	path = ai03-pcb-guide/random-keyboard-parts.pretty
 	url = https://github.com/ai03-2725/random-keyboard-parts.pretty
+[submodule "ai03-pcb-guide/kicad-symbols"]
+	path = ai03-pcb-guide/kicad-symbols
+	url = https://github.com/KiCad/kicad-symbols
